@@ -1,0 +1,10 @@
+apiVersion: v1
+name: helm-nginx
+description: Run nginx
+keywords:
+- nginx
+- hellonginx
+version: 1.0.0
+maintainers:
+- name: dkudlek
+  email: kuda1101@gmail.com
